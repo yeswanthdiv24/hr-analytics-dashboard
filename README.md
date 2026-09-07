@@ -37,3 +37,8 @@ This dashboard helps HR teams understand employee attrition patterns and identif
 ## Live Dashboard
 
 Add your Tableau Public link here after publishing the dashboard.
+
+
+<img width="1470" height="956" alt="Screenshot 2026-09-07 at 12 05 09 PM" src="https://github.com/user-attachments/assets/eda45b81-b079-48ae-9c14-c13eb1a805c7" />
+
+
